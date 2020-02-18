@@ -1,0 +1,60 @@
+*{
+    margin: 5px;
+    padding: 0px;
+background-color: rgb(3, 114, 77);    
+}
+
+
+h1{ text-shadow: 2px 2px 1px green;
+    color: white;
+    text-align: center;
+} 
+
+
+#first{
+    color: darksalmon;
+    
+}
+
+
+p{
+    margin: 10px;
+    margin-top: 5px;
+    border: 2px solid black;
+    padding: 7px;
+
+}
+#second{
+    color: brown;
+    background: darkgray;
+    margin: 2%;
+    padding: 5px;
+    color: rgba(0,0,0,0.5);
+}
+
+
+nav {
+display: inline;
+}
+
+p#second{
+    color: sienna;
+    padding: 50px;
+}
+[border="1"]{
+    background-color:yellow;
+    box-shadow: -5px -2px 3px blue;
+    margin-left: 10px;
+
+}
+
+#mi_texto{text-decoration:underline overline line-through;
+}
+
+p#copiright{
+    padding: 2px;
+    background-color: rgb(3, 3, 3);
+    color: white;
+}
+#tabla{background-color: wheat;
+;}
